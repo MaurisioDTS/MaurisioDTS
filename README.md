@@ -14,11 +14,7 @@
 
 ###
 
-<h4 align="left">y a veces hago música</h4>
-
-###
-
-<p align="left">por desgracia</p>
+<p align="left">y por desgracia</p>
 
 ###
 <h2 align="left">con lo que programo:</h2>
